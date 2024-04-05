@@ -1,0 +1,12 @@
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\bin\Debug\net8.0\Domain.deps.json
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\bin\Debug\net8.0\Domain.dll
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\bin\Debug\net8.0\Domain.pdb
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.dll
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\refint\Domain.dll
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\Domain.pdb
+E:\toturial\codecell\asp.net core پیشرفته\CodecellShop\CodecellShop\src\Domain\obj\Debug\net8.0\ref\Domain.dll
