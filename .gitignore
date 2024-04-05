@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CodecellShop/.vs/CodecellShop/v17
+/CodecellShop/.vs/CodecellShop/FileContentIndex
+/CodecellShop/.vs/CodecellShop/DesignTimeBuild
